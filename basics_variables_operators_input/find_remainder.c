@@ -10,9 +10,9 @@ int main(){
     printf("Enter the value of b :\n");
     scanf("%d",&b); // & is for storing value into memory address
 
-    int quotient = a / b;
+    int quotient = a / b; // a > b , // Quotient = Dividend / Divisor 
     int remainder = a - (b * quotient); // Remainder = Dividend - (Divisor × Quotient)
     printf("The remainder when %d is divided by %d is : %d\n",a,b,remainder);
     return 0;   
-    
+
 }
