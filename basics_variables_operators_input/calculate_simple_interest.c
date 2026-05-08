@@ -2,6 +2,7 @@
 #include<stdio.h>
 int main(){
     float p,r,t,si;
+    
     printf("Enter the principal amount, rate of interest and time in years :\n");
     scanf("%f %f %f",&p,&r,&t); // & is for storing value into memory address
 
