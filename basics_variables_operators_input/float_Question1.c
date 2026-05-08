@@ -7,6 +7,6 @@ int main(){
     float x4 = 92;
     float x5 = 88;
     float percentage = (x1 + x2 + x3 + x4 + x5)/5;
-    printf("The percentage is : %.2f\n",percentage);
+    printf("The percentage is : %.2f%%\n",percentage);
     return 0;
 }
