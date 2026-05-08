@@ -8,5 +8,7 @@ int main(){
     float x5 = 88;
     float percentage = (x1 + x2 + x3 + x4 + x5)/5;
     printf("The percentage is : %.2f%%\n",percentage); // %% is used for printing percentage symbol
+    float total = x1 + x2 + x3 + x4 + x5;
+    printf("Total marks obtained : %.2f\n",total);
     return 0;
 }
