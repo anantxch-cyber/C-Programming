@@ -15,9 +15,9 @@ int main(){
     return 0;
 }
 
-// ab agar mereko. user se numbers lene hai for calculation then this is the code for that :
+// ab agar mereko user se numbers lene hai for calculation then this is the code for that :
 
-/* #include <stdio.h>
+/* #include<stdio.h>
 
 int main() {
 
