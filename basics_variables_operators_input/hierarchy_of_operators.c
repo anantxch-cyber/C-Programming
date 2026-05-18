@@ -1,4 +1,5 @@
 // This program demonstrates operator precedence and integer division in C
+// %d & %f is format specifier for int and float data types respectively. It is used in printf and scanf functions to specify the type of data being printed or read.
 // Float is only accurate till 6-7 decimal places, so if we want to get more accurate result then we can use double data type which is accurate till 15-16 decimal places. But in this program we are using int data type for all the variables, so the result will be an integer and not a float.
 #include<stdio.h>
 int main(){
